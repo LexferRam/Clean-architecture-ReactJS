@@ -24,7 +24,7 @@ state managment in infraestructure, so we need implement an adapter for the redu
 **The most important thing in this architecture is dependency rule**: the lower layer must not know about the the higher layer.
 Then we can keep it testable. Use interface to define the method as a communication.
 
-<img src='./src/assets/IMG_3365.png' width='550' height='250'>
+<img src='./src/assets/IMG_3365.PNG' width='550' height='250'>
 
 ## Redux
 
