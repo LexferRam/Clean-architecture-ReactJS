@@ -1,5 +1,7 @@
 # CLEAN ARCHITECTURE
 
+<https://dev.to/juanoa/a-clean-frontend-architecture-for-react-and-redux-15cn>
+
 Trata de brindar una arquitectura la cual sea lo mas ordenada posible, que será ordenada por capas, cada una de estas capaz 
 va a tener sus responsabilidades pero lo mas importante es la capa del centro, el dominio( se encarga de las entidades y la logica de negocio):
 
